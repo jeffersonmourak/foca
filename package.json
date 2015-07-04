@@ -1,0 +1,25 @@
+{
+  "name": "Foca",
+  "version": "0.0.1",
+  "description": "Foca é um gerenciado de estudos para o enem",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffersonmourak/foca.git"
+  },
+  "keywords": [
+    "Foca"
+  ],
+  "author": "Jeffersonmourak, andrepgsilva, Saramaria, ulissesmelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffersonmourak/foca/issues"
+  },
+  "homepage": "https://github.com/jeffersonmourak/foca",
+  "dependencies": {
+    "mongoose": "^4.0.6"
+  }
+}
