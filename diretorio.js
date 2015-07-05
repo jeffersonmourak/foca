@@ -30,7 +30,7 @@
                 self.connected = true;
             });
 
-            Mongoose.connect("mongodb://localhost/questions");
+            Mongoose.connect("mongodb://localhost/foca");
 
         },
         addQuestion: function(user, question,callback) {
